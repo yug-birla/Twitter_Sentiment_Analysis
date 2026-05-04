@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a complete end-to-end NLP pipeline for binary sentiment classification on Twitter data. The primary objective is a comparative study of two feature representation techniques — TF-IDF and Word2Vec — across multiple machine learning models, with the goal of understanding how feature engineering choices impact classification performance.
+This project presents a complete end-to-end NLP pipeline for binary sentiment classification on Twitter data. The primary objective is a comparative study of two feature representation techniques :— TF-IDF and Word2Vec, across multiple machine learning models, with the goal of understanding how feature engineering choices impact classification performance.
 
 ---
 
@@ -194,15 +194,6 @@ python main.py
 - Gensim
 - Matplotlib, Seaborn
 - NLTK
-
----
-
-## Future Improvements
-
-- Incorporate pretrained embeddings (GloVe, FastText)
-- Implement sequence models (LSTM, Transformer-based classifiers)
-- Perform systematic hyperparameter tuning
-- Deploy the best model as a REST API
 
 ---
 
