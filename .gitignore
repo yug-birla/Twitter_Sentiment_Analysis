@@ -1,0 +1,23 @@
+# Python and Virtual Environments
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Datasets (Do not upload large data files to GitHub!)
+*.csv
+*.tsv
+*.dat
+*.json
+*.sqlite
+*.db
+data/
+datasets/
+
+# OS generated files
+.DS_Store
+Thumbs.db
